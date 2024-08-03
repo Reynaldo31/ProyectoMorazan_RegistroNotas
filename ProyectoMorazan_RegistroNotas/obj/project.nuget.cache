@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6kNkJl7yL25uWFnMeEPx/Mvw+wpzMir5s46XIyqjbnfcjDz+dFZNyppApsmIThiyNNDkyJMHjNrG/uOn3MSDyg==",
+  "dgSpecHash": "cgoGrP1n79ihfTmrzC4sz88GO5J8eEE2cKMta4UnpPwMhaxmmJ28hazhNqNYqomegg6l6VzfesZHm9Y2RHYABA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\users\\source\\repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas.csproj",
+  "projectFilePath": "C:\\Users\\users\\Source\\Repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\users\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\users\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
