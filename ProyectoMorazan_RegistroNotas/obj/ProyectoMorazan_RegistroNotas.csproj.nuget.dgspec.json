@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\users\\source\\repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\users\\source\\repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\users\\source\\repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas.csproj",
+        "projectName": "ProyectoMorazan_RegistroNotas",
+        "projectPath": "C:\\Users\\users\\source\\repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas.csproj",
+        "packagesPath": "C:\\Users\\users\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\users\\source\\repos\\ProyectoMorazan_RegistroNotas\\ProyectoMorazan_RegistroNotas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\users\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
